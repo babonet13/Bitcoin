@@ -139,3 +139,5 @@ Avant #Bitcoin, la rareté relative d’une monnaie « dure » pouvait toujour
 ### Podcasts
 <a href="https://bitcoin.fr/21-millions-entretien-avec-yorick-de-mombynes/">La monnaie, une chose trop important pour être gérer par l’état ?</a> (Yorick de Mombyne)
 
+## ILLUSTRATION 
+![Questions](https://github.com/babonet13/Bitcoin/blob/master/Images/PourquoiCommentQuoi.png)
