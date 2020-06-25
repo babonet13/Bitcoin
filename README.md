@@ -123,7 +123,7 @@ RESOURCES
 =========
 
 Pour en savoir plus sur le #Bitcoin  (Livres en « VO ») :
-- Bitcoin, la Monnaie Acéphale (amzn.to/2H8wKpO) @jfavier92300 @AdliTB ‏
+<a href="https://amzn.to/2H8wKpO">Bitcoin, la Monnaie Acéphale</a>
 - Bitcoin Métamorphoses (amzn.to/2M75oz2) 
 - J’achète du bitcoin (amzn.to/2RAcsu6) @philippeherlin
 
