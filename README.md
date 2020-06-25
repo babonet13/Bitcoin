@@ -45,7 +45,7 @@ Une monnaie « pleine » est une monnaie majoritairement incarnée par des bil
 
 Par conséquent 95% de la monnaie est de la monnaie « scripturale » 
 (autrement dit de l’argent totalement virtuel, existant iniquement sous forme d’écriture dans les comptes bancaires).  
-Cela est aussi largement lié au fait que l’Euro est en fait de l’argent basé sur la dette
+Cela est aussi largement lié au fait que l’Euro est en fait de l’argent-dette. Autrement dit, si 1 Euro est en circulation c'est parce quelqu'un quelque part doit cet Euro à une banque ...
 
 ###  Monnaie "distribuée"
 Une monnaie « distribuée » est une monnaie qui peut être émise par n’importe qui selon des règles précises acceptées par tous.
