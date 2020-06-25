@@ -11,8 +11,11 @@
 ## Constat : 
 La manière dont la monnaie est crée dans notre économie via : 
 - les banques centrales qui font tourner la « planche à billets » plus que de mesure
-- les banques de crédit qui créent de la monnaie « ex-nihilo » à chaque prêt bancaire
-ne choque plus personne ! (Le fameux « argent magique »)
+- les banques commerciales (appellées aussi banques de crédit) qui créent de la monnaie « ex-nihilo » à chaque prêt bancaire
+ne choque plus personne ! (Le fameux « argent magique » ;-)
+Cf à ce sujet l'excellent Podcast de Gabriel Rabhi : "Argent, Dette, Qui créer l’argent ?" 
+> https://www.youtube.com/watch?v=syAkdb_TDyo
+ 
 
 ## Conséquences : 
 Pourtant, ces pratiques (soutenues par tous les gouvernements la planète 
@@ -131,5 +134,3 @@ Pour en savoir plus sur le #Bitcoin  (Livres  en « VF ») :
 Podcast : La monnaie, une chose trop important pour être gérer par l’état ? (Yorick de Mombyne)
 https://bitcoin.fr/21-millions-entretien-avec-yorick-de-mombynes/
 
-Podcast : Argent, Dette, Qui créer l’argent ? (Gabriel Rabhi)
-https://www.youtube.com/watch?v=syAkdb_TDyo
