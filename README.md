@@ -28,20 +28,20 @@ Notre système monétaire souffre de 4 problèmes majeurs.
 En effet, l’Euro n’est pas :
 * une monnaie "dure" (ni même n’est adossé à une monnaie "dure")
 * une monnaie "pleine"
-* une monnaie "distribuée" (mais "centralisé")
-* une monnaie régulé par le marché (mais par la BCE)
+* une monnaie "distribuée"
+* une monnaie "régulé" par le marché
 
 ### Monnaie "dure"
 Une monnaie « dure » (= « sound money » au sens de @saifedean) est une monnaie dont la production annuelle est faible (1.5% à 3%) par rapport à la quantité de monnaie en circulation.
 
-Ce type de monnaie « déflationniste » favorise la thésaurisation et les investissements ...
+Ce type de monnaie « déflationniste » favorise la thésaurisation et les investissements ...   
 … et conduit les acteurs économiques à ne pas dépenser inutilement leur argent.
-Ce n’est pas le cas de l’Euro, qui peut avoir jusqu’à 8-10% de croissance annuelle.
+> Ce n’est pas le cas de l’Euro, qui peut avoir jusqu’à 8-10% de croissance annuelle.
 (=> Chiffres d’avant la crise « COVID » qui ont totalement explosé depuis !)
 
 ### Monnaie "pleine"
 Une monnaie « pleine » est une monnaie majoritairement incarnée par des billets ou des pièces.
-Ce n’est pas le cas de l’Euro, dont 5% seulement de la masse monétaire en circulation sont des billets ou des pièces !
+> Ce n’est pas le cas de l’Euro, dont 5% seulement de la masse monétaire en circulation sont des billets ou des pièces !
 
 Par conséquent 95% de la monnaie est de la monnaie « scripturale » 
 (autrement dit de l’argent totalement virtuel, existant iniquement sous forme d’écriture dans les comptes bancaires)
@@ -49,9 +49,12 @@ Cela est aussi largement lié au fait que l’Euro est en fait de l’argent bas
 
 ###  Monnaie "distribuée"
 Une monnaie « distribuée » est une monnaie qui peut être émise par n’importe qui selon des règles précises acceptées par tous.
-Ce n’est pas le cas de l’Euro dont la production est exclusivement réservé à la BCE.
+> Ce n’est pas le cas de l’Euro dont la production est exclusivement réservé à la BCE.
 
-### Monnaie "régulée"
+### Monnaie "régulée" par le marché
+Une monnaie "régulé" par le marché est une monnaie dont le cours fluctue librement en fonction de l'offre et de la demande
+> Ce n'est pas cas de l'Euro est régulé par la BCE
+
 Notre économie soit disant « libérale » (par opposition à l’économie « communiste » qui cherche à planifier / réguler globalement l’économie de chaque grande famille de bien : nourriture, logement, transport, …) ...   
 
 ... est en fait un « communiste monétaire » car elle cherche à réguler ce qui devrait l’être le moins : la monnaie !
