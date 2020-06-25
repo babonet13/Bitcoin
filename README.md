@@ -98,6 +98,9 @@ Avant #Bitcoin, la rareté relative d’une monnaie « dure » pouvait toujour
 
 > Avec  #Bitcoin, la technologie à permis de créer une ultime monnaie « dure » basée sur la rareté absolue que la technologie ne peut pas compromettre 
 
+## Conclusion
+To Be Done ...
+
 ## EN BREF
 
 ### Pourquoi l’avoir fait ? :
