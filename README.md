@@ -14,7 +14,7 @@ La manière dont la monnaie est crée dans notre économie via :
 - les banques centrales qui font tourner la « planche à billets » plus que de mesure
 - les banques commerciales (appellées aussi banques de crédit) qui créent de la monnaie « ex-nihilo » à chaque prêt bancaire
 ne choque plus personne ! (Le fameux « argent magique » ;-)   
-Cf à ce sujet l'excellent Podcast <a href=" https://www.youtube.com/watch?v=syAkdb_TDyo">Argent, Dette, Qui crée l’argent ?</a> (Gabriel Rabhi)
+Cf à ce sujet l'excellent Podcast <a href="https://www.youtube.com/watch?v=syAkdb_TDyo">Argent, Dette, Qui crée l’argent ?</a> (Gabriel Rabhi)
 
 ## Remarque importante
 Ces pratiques (soutenues par tous les gouvernements la planète dopées aux thèses inflationnistes Keynésiennes) sont très intimement lié aux problèmes évoqués par les #GiletsJaunes (pouvoir d’achat, dette nationale, taxes à "gogo") …
