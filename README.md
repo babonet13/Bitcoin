@@ -119,18 +119,23 @@ Pour quoi faire ?
 * Atomic Swap (conversion entre crypto)
 
 
-RESOURCES 
-=========
+## RESOURCES 
+> Pour en savoir plus sur le #Bitcoin
 
-Pour en savoir plus sur le #Bitcoin  (Livres en « VO ») :
+### Article : 
+<a href="https://www.contrepoints.org/2017/11/08/302687-bitcoin-explique-a-moi-meme">Le bitcoin expliqué à moi-même</a> (Yorick de Mombyne)
+
+### Livres en « VO » :
 <a href="https://amzn.to/2H8wKpO">Bitcoin, la Monnaie Acéphale</a>
-- Bitcoin Métamorphoses (amzn.to/2M75oz2) 
-- J’achète du bitcoin (amzn.to/2RAcsu6) @philippeherlin
+<a href="https://amzn.to/2M75oz2">Bitcoin Métamorphoses</a>
+<a href="amzn.to/2RAcsu6">J’achète du bitcoin</a>
 
-Pour en savoir plus sur le #Bitcoin  (Livres  en « VF ») :
-- L’étalon bitcoin (amzn.to/2QJbvdJ) @saifedean
-- L’Internet de l’argent (amzn.to/2FoOJX9) @aantonop
 
-Podcast : La monnaie, une chose trop important pour être gérer par l’état ? (Yorick de Mombyne)
-https://bitcoin.fr/21-millions-entretien-avec-yorick-de-mombynes/
+### Livres en « VF » :
+<a href="https://amzn.to/2QJbvdJ">L’étalon bitcoin : l'alternative aux banques centrales</a>
+<a href="https://amzn.to/2FoOJX9">L’Internet de l’argent </a>
+
+
+### Podcast : 
+<a href="https://bitcoin.fr/21-millions-entretien-avec-yorick-de-mombynes/">La monnaie, une chose trop important pour être gérer par l’état ?</a> (Yorick de Mombyne)
 
