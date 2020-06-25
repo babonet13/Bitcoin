@@ -105,10 +105,10 @@ Pourquoi l’avoir fait ? :
 * ne pas être basée sur la dette
 
 Comment est-ce fait ?
-* Réseaux « peer-to-peer » 
-* Registre distribué / « blockchain » 
-* Cryptographie asymétrique
-* Consensus par « preuve de travail » 
+* réseaux « peer-to-peer » 
+* registre distribué / « blockchain » 
+* cryptographie asymétrique
+* consensus par « preuve de travail » 
 
 Pour quoi faire ?
 * chacun peut avoir une banque Suisse dans son mobile à coût « zéro »
