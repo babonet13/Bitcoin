@@ -73,8 +73,8 @@ Jusqu’à présent nous n’avions pas ce choix, car forcé d’utiliser l’EU
 Bitcoin dispose de bien des caractéristiques qui font défaut aux monnaies "fiat", car c'est :
 * une monnaie "pleine" : Tous les bitcoins émis sont vraiment des bitcoins
 * une monnaie "dure" : Le taux de production annuel de nouveaux bitcoin est de plus en plus faible
-* totalement distribué : Chacun peut jouer le (ou les) rôle(s) qu’il souhaite dans l’écosystème Bitcoin (Mineur, Noeud Complet, Développer, Utilisateur) et interagir avec ses « pairs »
-* régulé par le marché : Aucune autorité centrale ne peux intervenir pour modifier bitcoin
+* une monnaie totalement distribuée : Chacun peut jouer le (ou les) rôle(s) qu’il souhaite dans l’écosystème Bitcoin (Mineur, Noeud Complet, Développer, Utilisateur) et interagir avec ses « pairs »
+* une monnaie régulée par le marché : Aucune autorité centrale ne peux intervenir pour modifier bitcoin
 
 
 ## De l’or ...
