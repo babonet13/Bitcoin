@@ -103,10 +103,10 @@ Le #Bitcoin n'est sans doute pas une monnaie parfaite, ...
 ... mais il présente tout de même des caratéristiques plus "saines" que n'importe quelle monnaie "fiat" !   
 
 NB : De meilleures monnaies sont déjà en cours de mis au point : 
-* basé surle principe du "credit mutuel"
-* motorisé par des crypto-technologies
+* basées sur le principe du "credit mutuel"
+* motorisées par des crypto-technologies
 * représentant des resources économiques "tangibles"
-* probablement sous-tendu par la technologie <a href="https://holochain.org/">Holochain</a> (Cf <a href="https://github.com/iPlumb3r/Holochain">Holochain : Ceci n'est PAS une #Blockchain !</a> 
+* probablement sous-tendues par la technologie <a href="https://holochain.org/">Holochain</a> (Cf <a href="https://github.com/iPlumb3r/Holochain">Holochain : Ceci n'est PAS une #Blockchain !</a> 
 
 ## EN BREF
 
