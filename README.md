@@ -17,7 +17,8 @@ ne choque plus personne ! (Le fameux « argent magique » ;-)
 Cf à ce sujet l'excellent Podcast <a href="https://www.youtube.com/watch?v=syAkdb_TDyo">Argent, Dette, Qui crée l’argent ?</a> (Gabriel Rabhi)
 
 ## Remarque importante
-Ces pratiques (soutenues par tous les gouvernements la planète dopées aux thèses inflationnistes Keynésiennes) sont très intimement lié aux problèmes évoqués par les #GiletsJaunes (pouvoir d’achat, dette nationale, taxes à "gogo") …
+Ces pratiques (soutenues par tous les gouvernements la planète dopées aux thèses inflationnistes Keynésiennes) sont très intimement lié aux problèmes évoqués par les #GiletsJaunes (pouvoir d’achat, dette nationale, taxes à "gogo") ...
+(Et il n'y a pas loin de penser que cette manière de créer l'argent "architecture" le fonctionnement du monde à tel point que c'est la source de la quasi-totalité des problèmes de la planète !!!)
 
 Et ce n’était même PAS au programme du #GrandDébatNational ! 
 (https://twitter.com/gouvernementFR/status/1078602295854665729)
