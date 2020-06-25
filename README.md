@@ -57,27 +57,26 @@ Notre économie soit disant « libérale » (par opposition à l’économie �
 
 Les banques centrales dirigées par une poignée de personnes décide pour tous (à la place du marché) ce qui doit advenir de la monnaie ! En agissant ainsi cela à des conséquences systémiques désastreuses sur l’ensemble de l’économie.
 
-Mise en concurrence des monnaies : 
+## Mise en concurrence des monnaies
 Quoi qu’il en soit, l’essentiel n’est pas tant que la création monétaire devrait être privatisé (créée par des individus et/ou des collectifs), ...   
 ... mais c’est surtout que les monnaies devraient pouvoir être mise en concurrence pour que chaque personne puisse décider en son âme et conscience quelle est la monnaie qui correspond le mieux à ses besoins !
 
 ## Alternatives aux monnaies « fiat »
-Jusqu’à présent nous n’avions pas ce choix, car forcé d’utiliser l’EUR, l’USD ou autres monnaies « fiat » en tant qu’uniques monnaies des banques centrales …
-
-… mais maintenant avec les monnaie libres, locales et les crypto-monnaies (comme le Bitcoin) chacun peut décider d’utiliser la (ou les) monnaie(s) de son choix !
+Jusqu’à présent nous n’avions pas ce choix, car forcé d’utiliser l’EUR, l’USD ou autres monnaies « fiat » en tant qu’uniques monnaies des banques centrales.
+> mais maintenant avec les monnaies libres, locales et les crypto-monnaies (comme le Bitcoin) chacun peut décider d’utiliser la (ou les) monnaie(s) de son choix !
 
 ## Bitcoin
 Bitcoin dispose de bien des caractéristiques qui font défaut aux monnaies "fiat", car c'est :
-- une monnaie "pleine" : Tous les bitcoins émis sont vraiment des bitcoins
-- une monnaie "dure" : Le taux de production annuel de nouveaux bitcoin est de plus en plus faible
+* une monnaie "pleine" : Tous les bitcoins émis sont vraiment des bitcoins
+* une monnaie "dure" : Le taux de production annuel de nouveaux bitcoin est de plus en plus faible
+* totalement distribué : Chacun peut jouer le (ou les) rôle(s) qu’il souhaite dans l’écosystème Bitcoin (Mineur, Noeud Complet, Développer, Utilisateur) et interagir avec ses « pairs »
+* régulé par le marché : Aucune autorité centrale ne peux intervenir pour modifier bitcoin
 
-- régulé par le marché : Aucune autorité centrale ne peux intervenir pour modifier bitcoin
-- totalement distribué : Chacun peut jouer le (ou les) rôle(s) qu’il souhaite dans l’écosystème Bitcoin (Mineur, Noeud Complet, Développer, Utilisateur) et interagir avec ses « pairs »
 
 ## De l’or ...
 Historiquement, la monnaie « dure » par excellence était incarnée par l’or pour servir :
-- soit de monnaie en tant que telle,
-- soit de garantie pour des monnaies qui lui étais adossé.
+* soit de monnaie en tant que telle,
+* soit de garantie pour des monnaies qui lui étais adossé.
 
 L’or dispose de nombreuses caractéristiques lui permettant de jouer ce rôle, ...   
 
