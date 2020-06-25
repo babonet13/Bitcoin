@@ -7,6 +7,7 @@
 #SoundMoney #MonnaieDure #MonnaiePleine  #RéservesFractionnaires #ArgentDette 
 #FiatMoney $EUR $USD #ArgentVirtuel #VirtualMoney
 #Bitcoin $BTC #OrNumérique #DigitalGold 
+#Crypto-Currencies
 
 ## Constat : 
 La manière dont la monnaie est crée dans notre économie via : 
