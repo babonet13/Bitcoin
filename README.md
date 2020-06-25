@@ -115,20 +115,20 @@ Avant #Bitcoin, la rareté relative d’une monnaie « dure » pouvait toujour
 
 
 ## RESOURCES 
-> Pour en savoir plus sur le #Bitcoin
+(Pour en savoir plus sur le #Bitcoin)
 
-### Article : 
+### Articles
 <a href="https://www.contrepoints.org/2017/11/08/302687-bitcoin-explique-a-moi-meme">Le bitcoin expliqué à moi-même</a> (Yorick de Mombyne)
 
-### Livres en « VO » :
+### Livres en "VO"
 <a href="https://amzn.to/2H8wKpO">Bitcoin, la Monnaie Acéphale</a>
 <a href="https://amzn.to/2M75oz2">Bitcoin Métamorphoses</a>
 <a href="amzn.to/2RAcsu6">J’achète du bitcoin</a>
 
-### Livres en « VF » :
+### Livres en "VF"
 <a href="https://amzn.to/2QJbvdJ">L’étalon bitcoin : l'alternative aux banques centrales</a>
 <a href="https://amzn.to/2FoOJX9">L’Internet de l’argent </a>
 
-### Podcast : 
+### Podcasts
 <a href="https://bitcoin.fr/21-millions-entretien-avec-yorick-de-mombynes/">La monnaie, une chose trop important pour être gérer par l’état ?</a> (Yorick de Mombyne)
 
