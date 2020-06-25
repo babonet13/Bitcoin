@@ -85,7 +85,7 @@ Historiquement, la monnaie « dure » par excellence était incarnée par l’
 L’or dispose de nombreuses caractéristiques lui permettant de jouer ce rôle, ...   
 
 ## ... à l’or « numérique »
-...  Mais le bitcoin à des atouts que l’or n’a pas : nativement digital il n’est nullement besoin de le transporter, et on peux faire avec des payements rapides, de n’importe quel montant à des personnes à l’autre bout du monde !
+...  Mais le bitcoin à - en plus - des atouts que l’or n’a pas : nativement digital il n’est nullement besoin de le transporter, et on peux faire avec des payements rapides, de n’importe quel montant à des personnes à l’autre bout du monde !
 
 
 ## Rareté et Technologie :
