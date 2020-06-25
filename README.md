@@ -49,14 +49,14 @@ Par conséquent 95% de la monnaie est de la monnaie « scripturale »
 (autrement dit de l’argent totalement virtuel, existant iniquement sous forme d’écriture dans les comptes bancaires)
 Cela est aussi largement lié au fait que l’Euro est en fait de l’argent basé sur la dette
 
-### Monnaie "Régulée" : 
+### Monnaie "régulée" : 
 Notre économie soit disant « libérale » (par opposition à l’économie « communiste » qui cherche à planifier / réguler globalement l’économie de chaque grande famille de bien : nourriture, logement, transport, …) …
 
 … est en fait un « communiste monétaire » car elle cherche à réguler ce qui devrait l’être le moins : la monnaie !
 
 Les banques centrales dirigées par une poignée de personnes décide pour tous (à la place du marché) ce qui doit advenir de la monnaie ! En agissant ainsi cela à des conséquences systémiques désastreuses sur l’ensemble de l’économie.
 
-###  Monnaie "Distribuée" :
+###  Monnaie "distribuée" :
 Une monnaie « distribuée » est une monnaie qui peut être émise par n’importe qui selon des règles précises acceptées par tous.
 Ce n’est pas le cas de l’Euro dont la production est exclusivement réservé à la BCE.
 
