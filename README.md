@@ -36,7 +36,7 @@ Une monnaie « dure » (= « sound money » au sens de @saifedean) est une m
 
 Ce type de monnaie « déflationniste » favorise la thésaurisation et les investissements ...   
 … et conduit les acteurs économiques à ne pas dépenser inutilement leur argent.
-> Ce n’est pas le cas de l’Euro, qui peut avoir jusqu’à 8-10% de croissance annuelle.
+> Ce n’est pas le cas de l’Euro, qui peut avoir jusqu’à 8-10% de croissance annuelle.    
 (=> Chiffres d’avant la crise « COVID » qui ont totalement explosé depuis !)
 
 ### Monnaie "pleine"
