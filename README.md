@@ -99,7 +99,13 @@ Avant #Bitcoin, la rareté relative d’une monnaie « dure » pouvait toujour
 > Avec  #Bitcoin, la technologie à permis de créer une ultime monnaie « dure » basée sur la rareté absolue que la technologie ne peut pas compromettre 
 
 ## Conclusion
-To Be Done ...
+Le #Bitcoin n'est sans doute pas une monnaie parfaite, ...   
+... mais il présente déjà des caratéristiques plus "saines" que n'importe quelle monnaie "fiat" !
+De meilleures monnaies seront certainement mis au point prochainement : 
+* basé surle principe du "credit mutuel"
+* motorisé par des crypto-technologies
+* représentant des resources économiques "tangibles"
+* probablement mise au point avec la technologie <a href="https://holochain.org/">Holochain</a> (Cf <a href="https://github.com/iPlumb3r/Holochain">Holochain : Ceci n'est PAS une #Blockchain !</a> 
 
 ## EN BREF
 
