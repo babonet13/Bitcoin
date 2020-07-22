@@ -25,11 +25,11 @@ Et ce n’était même PAS au programme du #GrandDébatNational !
 
 ## Conséquences
 Notre système monétaire souffre de 4 problèmes majeurs. 
-En effet, l’Euro n’est pas :
-* une monnaie "dure" (ni même n’est adossé à une monnaie "dure")
-* une monnaie "pleine"
-* une monnaie "distribuée"
-* une monnaie "régulé" par le marché
+En effet, l’Euro :
+* n'est PAS une monnaie "dure" (ni même n’est adossé à une monnaie "dure")
+* n'est PAS une monnaie "pleine"
+* n'est PAS une monnaie "distribuée"
+* n'est PAS une monnaie "régulé" par le marché
 
 ### Monnaie "dure"
 Une monnaie « dure » (= « sound money » au sens de @saifedean) est une monnaie dont la production annuelle est faible (1.5% à 3%) par rapport à la quantité de monnaie en circulation.
