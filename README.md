@@ -24,12 +24,13 @@ Et ce n’était même PAS au programme du #GrandDébatNational !
 (https://twitter.com/gouvernementFR/status/1078602295854665729)
 
 ## Conséquences
-Notre système monétaire souffre de 4 problèmes majeurs. 
+Notre système monétaire souffre de 5 problèmes majeurs. 
 En effet, l’Euro :
 * n'est PAS une monnaie "dure" (ni même n’est adossé à une monnaie "dure")
 * n'est PAS une monnaie "pleine"
 * n'est PAS une monnaie "distribuée"
 * n'est PAS une monnaie "régulé" par le marché
+* EST une monnaie "dette"
 
 ### Monnaie "dure"
 Une monnaie « dure » (= « sound money » au sens de @saifedean) est une monnaie dont la production annuelle est faible (1.5% à 3%) par rapport à la quantité de monnaie en circulation.
@@ -61,6 +62,11 @@ Notre économie soit disant « libérale » (par opposition à l’économie �
 
 Les banques centrales dirigées par une poignée de personnes décide pour tous (à la place du marché) ce qui doit advenir de la monnaie ! En agissant ainsi cela à des conséquences systémiques désastreuses sur l’ensemble de l’économie.
 
+### Monnaie "dette"
+Une monnaie "dette" est une monnaie qui est essentiellement crée par le biais du crédit bancaire ...   
+... et qui force à s'endetter de plus en plus en plus pour faire "tourner" l'économie.
+(En effet, dans un tel système, si tout le monde pouvait rembourser ces dettes, alors il n'y aurai plus d'argent en circulation !)
+
 ## Mise en concurrence des monnaies
 Quoi qu’il en soit, l’essentiel n’est pas tant que la création monétaire devrait être privatisé (créée par des individus et/ou des collectifs), ...   
 ... mais c’est surtout que les monnaies devraient pouvoir être mise en concurrence pour que chaque personne puisse décider en son âme et conscience quelle est la monnaie qui correspond le mieux à ses besoins !
@@ -70,11 +76,12 @@ Jusqu’à présent nous n’avions pas ce choix, car forcé d’utiliser l’EU
 > mais maintenant avec les monnaies libres, locales et les crypto-monnaies (comme le Bitcoin) chacun peut décider d’utiliser la (ou les) monnaie(s) de son choix !
 
 ## Bitcoin
-Bitcoin dispose de bien des caractéristiques qui font défaut aux monnaies "fiat", car c'est :
-* une monnaie "pleine" : Tous les bitcoins émis sont vraiment des bitcoins
-* une monnaie "dure" : Le taux de production annuel de nouveaux bitcoin est de plus en plus faible
-* une monnaie totalement distribuée : Chacun peut jouer le (ou les) rôle(s) qu’il souhaite dans l’écosystème Bitcoin (Mineur, Noeud Complet, Développer, Utilisateur) et interagir avec ses « pairs »
-* une monnaie régulée par le marché : Aucune autorité centrale ne peux intervenir pour modifier bitcoin
+Bitcoin dispose de bien des caractéristiques qui font défaut aux monnaies "fiat", car :
+* c'est une monnaie "pleine" : Tous les bitcoins émis sont vraiment des bitcoins
+* c'est une monnaie "dure" : Le taux de production annuel de nouveaux bitcoin est de plus en plus faible
+* c'est une monnaie totalement distribuée : Chacun peut jouer le (ou les) rôle(s) qu’il souhaite dans l’écosystème Bitcoin (Mineur, Noeud Complet, Développer, Utilisateur) et interagir avec ses « pairs »
+* c'est une monnaie régulée par le marché : Aucune autorité centrale ne peux intervenir pour modifier bitcoin
+* ce n'est PAS une monnaie "dette"
 
 
 ## De l’or ...
