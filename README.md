@@ -33,7 +33,7 @@ En effet, l’Euro :
 * EST une monnaie "dette"
 
 ### Monnaie "dure"
-Une monnaie « dure » (= « sound money » au sens de @saifedean) est une monnaie dont la production annuelle est faible (1.5% à 3%) par rapport à la quantité de monnaie en circulation.
+Une monnaie « dure » (= « sound money » au sens de <a href="https://twitter.com/saifedean">@saifedean</a>) est une monnaie dont la production annuelle est faible (1.5% à 3%) par rapport à la quantité de monnaie en circulation.
 
 Ce type de monnaie « déflationniste » favorise la thésaurisation et les investissements ...   
 … et conduit les acteurs économiques à ne pas dépenser inutilement leur argent.
