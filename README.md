@@ -54,7 +54,7 @@ Une monnaie « distribuée » est une monnaie qui peut être émise par n’im
 
 ### Monnaie "régulée par le marché"
 Une monnaie "régulé" par le marché est une monnaie dont le cours fluctue librement en fonction de l'offre et de la demande
-> Ce n'est pas cas de l'Euro est régulé par la BCE
+> Ce n'est pas cas de l'Euro qui est strictement et uniquement régulé par la BCE
 
 Notre économie soit disant « libérale » (par opposition à l’économie « communiste » qui cherche à planifier / réguler globalement l’économie de chaque grande famille de bien : nourriture, logement, transport, …) ...   
 
