@@ -50,7 +50,7 @@ Cela est aussi largement lié au fait que l’Euro est en fait de l’argent-det
 
 ###  Monnaie "distribuée"
 Une monnaie « distribuée » est une monnaie qui peut être émise par n’importe qui selon des règles précises acceptées par tous.
-> Ce n’est pas le cas de l’Euro dont la production est exclusivement réservé à la BCE.
+> Ce n’est pas le cas de l’Euro dont la production est exclusivement réservé à la BCE (Banque Centrale Européenne).
 
 ### Monnaie "régulée par le marché"
 Une monnaie "régulé" par le marché est une monnaie dont le cours fluctue librement en fonction de l'offre et de la demande
