@@ -65,7 +65,7 @@ Les banques centrales dirigées par une poignée de personnes décide pour tous 
 ### Monnaie "dette"
 Une monnaie "dette" est une monnaie qui est essentiellement crée par le biais du crédit bancaire ...   
 ... et qui force à s'endetter de plus en plus en plus pour faire "tourner" l'économie.   
-(En effet, dans un tel système, si tout le monde pouvait rembourser ces dettes, alors il n'y aurai plus d'argent en circulation !)
+(En effet, dans un tel système, si tout le monde pouvait rembourser ces dettes, alors il n'y aurait plus d'argent en circulation !)
 > C'est le cas de l'Euro qui est principalement créé de cette manière
 
 ## Mise en concurrence des monnaies
