@@ -29,7 +29,7 @@ En effet, l’Euro :
 * n'est PAS une monnaie "dure" (ni même n’est adossé à une monnaie "dure")
 * n'est PAS une monnaie "pleine"
 * n'est PAS une monnaie "distribuée"
-* n'est PAS une monnaie "régulé" par le marché
+* n'est PAS une monnaie "régulé par le marché"
 * EST une monnaie "dette"
 
 ### Monnaie "dure"
@@ -52,7 +52,7 @@ Cela est aussi largement lié au fait que l’Euro est en fait de l’argent-det
 Une monnaie « distribuée » est une monnaie qui peut être émise par n’importe qui selon des règles précises acceptées par tous.
 > Ce n’est pas le cas de l’Euro dont la production est exclusivement réservé à la BCE.
 
-### Monnaie "régulée" par le marché
+### Monnaie "régulée par le marché"
 Une monnaie "régulé" par le marché est une monnaie dont le cours fluctue librement en fonction de l'offre et de la demande
 > Ce n'est pas cas de l'Euro est régulé par la BCE
 
@@ -80,8 +80,8 @@ Jusqu’à présent nous n’avions pas ce choix, car forcé d’utiliser l’EU
 Bitcoin dispose de bien des caractéristiques qui font défaut aux monnaies "fiat", car :
 * c'est une monnaie "pleine" : Tous les bitcoins émis sont vraiment des bitcoins
 * c'est une monnaie "dure" : Le taux de production annuel de nouveaux bitcoin est de plus en plus faible
-* c'est une monnaie totalement distribuée : Chacun peut jouer le (ou les) rôle(s) qu’il souhaite dans l’écosystème Bitcoin (Mineur, Noeud Complet, Développer, Utilisateur) et interagir avec ses « pairs »
-* c'est une monnaie régulée par le marché : Aucune autorité centrale ne peux intervenir pour modifier bitcoin
+* c'est une monnaie totalement "distribuée" : Chacun peut jouer le (ou les) rôle(s) qu’il souhaite dans l’écosystème Bitcoin (Mineur, Noeud Complet, Développer, Utilisateur) et interagir avec ses « pairs »
+* c'est une monnaie "régulée par le marché" : Aucune autorité centrale ne peux intervenir pour modifier bitcoin
 * ce n'est PAS une monnaie "dette"
 
 
