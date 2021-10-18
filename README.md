@@ -110,7 +110,7 @@ Avant #Bitcoin, la rareté relative d’une monnaie « dure » pouvait toujour
 Le #Bitcoin n'est sans doute pas une monnaie parfaite, ...   
 ... mais il présente tout de même des caratéristiques plus "saines" que n'importe quelle monnaie "fiat" !   
 
-NB : De meilleures monnaies sont déjà en cours de mis au point : 
+NB : De meilleures monnaies sont déjà en cours de mise au point : 
 * basées sur le principe du "credit mutuel"
 * motorisées par des crypto-technologies
 * représentant des resources économiques "tangibles"
