@@ -19,7 +19,7 @@ La manière dont la monnaie est crée dans notre économie via :
 Ces pratiques (soutenues par tous les gouvernements la planète dopées aux thèses inflationnistes Keynésiennes) sont très intimement liés aux problèmes évoqués par les #GiletsJaunes (pouvoir d’achat, dette nationale, taxes à "gogo") ...   
 (Et il n'y a pas loin de penser que cette manière de créer l'argent "architecture" le fonctionnement du monde à tel point que c'est la source de l'écrasante majorité des problèmes de cette planète !!!)
 
-Et ce n’était même PAS au programme du #GrandDébatNational ! 
+> Et ce n’était même PAS au programme du #GrandDébatNational ! 
 (https://twitter.com/gouvernementFR/status/1078602295854665729)
 
 ## Origine potentielle des problèmes
